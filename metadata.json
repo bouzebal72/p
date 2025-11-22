@@ -1,0 +1,4 @@
+{
+  "name": "OC Forge - Character Reference Generator",
+  "description": "Upload a folder of character references and use Gemini 3 Pro (Nano Banana Pro) to generate consistent new images based on your visual context."
+}
